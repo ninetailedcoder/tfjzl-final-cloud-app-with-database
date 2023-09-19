@@ -1,12 +1,18 @@
 
 #Cloud app with database 
 --------------------------
-forked the app skeleton and added the following features to the application 
+forked the app skeleton and added the following features to the application
+ 
 *Create Question, Choice, and Submission models
+
 *Create a new course object with exam-related models using the admin site
+
 *Update the course details template to show questions and choices
+
 *Create a new exam result template to show the result of the submission
+
 *Create a new exam result submission view
+
 *Create a new view to display and evaluate exam result
 
 **ER Diagram**
